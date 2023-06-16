@@ -1,5 +1,6 @@
 # Clarina: AI super charged chatbot
 **A Chatbot that will help users answer questions about Clarins products**
+
 The app is developed using langchain agents and OpenAI models
 ![](https://github.com/noeljbasil/clarina_chatbot/blob/main/src/App%20gif.gif)
 
