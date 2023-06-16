@@ -1,4 +1,4 @@
-# clarina_chatbot
+# Clarina: AI super charged chatbot
 **A Chatbot that will help users answer questions about Clarins products**
 
 ![alt text](https://github.com/noeljbasil/clarina_chatbot/blob/main/src/App%20screenshot.png)
